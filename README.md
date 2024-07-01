@@ -1,0 +1,1 @@
+##Fine tuning mistral instruct en utilisant qLora adapters pour réduire les calculs
